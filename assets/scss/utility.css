@@ -1,0 +1,20 @@
+.home_page {
+  margin: 0;
+  padding: 0;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 1em;
+  max-width: 1520px;
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  position: relative;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#36135a), to(#5d3899));
+  background-image: linear-gradient(to bottom, #36135a, #5d3899);
+}
+/*# sourceMappingURL=utility.css.map */
